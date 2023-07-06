@@ -14,7 +14,7 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.res.stringResource
 import androidx.compose.ui.text.style.TextAlign
 import androidx.navigation.NavHostController
-import net.MyKanisa.R
+import net.simplifiedcoding.R
 import net.MyKanisa.ui.theme.spacing
 
 @Composable

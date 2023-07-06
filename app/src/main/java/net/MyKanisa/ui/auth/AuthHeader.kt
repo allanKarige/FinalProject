@@ -12,6 +12,7 @@ import androidx.compose.ui.text.style.TextAlign
 import androidx.compose.ui.tooling.preview.Preview
 import net.MyKanisa.ui.theme.AppTheme
 import net.MyKanisa.ui.theme.spacing
+import net.simplifiedcoding.R
 
 @Composable
 fun AuthHeader() {

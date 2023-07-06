@@ -14,6 +14,7 @@ import androidx.navigation.NavHostController
 import com.airbnb.lottie.compose.*
 import kotlinx.coroutines.delay
 import net.MyKanisa.navigation.ROUTE_LOGIN
+import net.simplifiedcoding.R
 
 @Composable
 fun LottieAnimationComponent(navController: NavHostController) {

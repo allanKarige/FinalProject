@@ -35,7 +35,7 @@ import net.MyKanisa.navigation.ROUTE_LOGIN
 import net.MyKanisa.navigation.ROUTE_WORSHIP
 import net.MyKanisa.ui.auth.AuthViewModel
 import net.MyKanisa.ui.theme.AppTheme
-
+import net.simplifiedcoding.R
 
 @SuppressLint("UnusedMaterial3ScaffoldPaddingParameter")
 @OptIn(ExperimentalMaterial3Api::class)
