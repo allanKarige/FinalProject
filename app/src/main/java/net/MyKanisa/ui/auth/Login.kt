@@ -26,7 +26,7 @@ import androidx.constraintlayout.compose.ConstraintLayout
 import androidx.constraintlayout.compose.Dimension
 import androidx.navigation.NavController
 import androidx.navigation.compose.rememberNavController
-import net.simplifiedcoding.R
+import net.MyKanisa.R
 import net.MyKanisa.data.Resource
 import net.MyKanisa.navigation.ROUTE_HOME
 import net.MyKanisa.navigation.ROUTE_LOGIN

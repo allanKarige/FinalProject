@@ -18,7 +18,8 @@ import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.res.painterResource
 import androidx.compose.ui.unit.dp
 import androidx.navigation.NavHostController
-import net.simplifiedcoding.R
+import net.MyKanisa.R
+
 import net.MyKanisa.navigation.ROUTE_COMMUNITIES
 import net.MyKanisa.navigation.ROUTE_EVENTS
 import net.MyKanisa.navigation.ROUTE_HOME

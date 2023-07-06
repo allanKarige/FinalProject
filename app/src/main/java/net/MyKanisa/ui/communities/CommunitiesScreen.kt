@@ -32,7 +32,7 @@ import androidx.navigation.NavHostController
 import net.MyKanisa.ui.auth.AuthViewModel
 import net.MyKanisa.ui.home.appBarTitle
 import net.MyKanisa.ui.home.bottomBoxes
-import net.simplifiedcoding.R
+import net.MyKanisa.R
 
 
 @OptIn(ExperimentalMaterial3Api::class)
